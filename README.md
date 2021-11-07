@@ -1,12 +1,5 @@
 # Hi there, I'm Dennis 👋
 
-
-<!-- ## I'm a Data Engineer and Physicist!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🏆 2021 Goals: Contribute to Open Source projects
-- 🏊 Hobbies: I love to play badminton and jog -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237A3FFF&width=550&height=100&lines=I'm+a+Data+Engineer+and+Physicist!!;%F0%9F%8C%B1Currently+learning+everything%F0%9F%A4%A3;%F0%9F%8F%86+2021+Goals%3A+Contribute+to+Open+Source+projects;%F0%9F%8F%8A+Hobbies%3A+I+love+to+badminton+and+jog)](https://git.io/typing-svg)
 #
 ### How to reach me:
