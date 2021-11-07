@@ -1,5 +1,5 @@
 ### Hi there, I'm Dennis 👋
-<hr style="border:1px solid gray"> </hr>
+<hr style="border:0.1px solid gray"> </hr>
 
 <!-- ## I'm a Data Engineer and Physicist!!
 
