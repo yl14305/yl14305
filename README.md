@@ -1,5 +1,5 @@
 ### Hi there, I'm Dennis 👋
-<br />
+<hr />
 
 <!-- ## I'm a Data Engineer and Physicist!!
 
