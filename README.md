@@ -5,7 +5,7 @@
 #
 ### How to reach me:
 
-[<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 📧 [yl.dennis@protonmail.ch](mailto:yl.dennis@protonmail.ch?subject=[GitHub])
 <br />
