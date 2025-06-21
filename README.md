@@ -7,7 +7,7 @@
 ### How to reach me:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn Profile" width="32"/>]([https://www.linkedin.com/in/nano~streaming-io-v1])
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/>]([mailto:yl.dennis@protonmail.ch?subject=[GitHub]])
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="LinkedIn Profile" width="32"/>](mailto:yl.dennis@protonmail.ch?subject=[GitHub])
 &nbsp;
 📧 [](mailto:yl.dennis@protonmail.ch?subject=[GitHub])
 <br />
