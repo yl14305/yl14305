@@ -6,11 +6,11 @@
 #
 ### How to reach me:
 
-[<img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-
+[<img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LinkedIn Profile" width="32"/>]([https://www.linkedin.com/in/nano~streaming-io-v1])
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32"/>]([mailto:yl.dennis@protonmail.ch?subject=[GitHub]])
+&nbsp;
 📧 [yl.dennis@protonmail.ch](mailto:yl.dennis@protonmail.ch?subject=[GitHub])
 <br />
 
 
 ---
-[linkedin]: https://linkedin.com/in/yeanloong-1-12-9-22-5orwrld
